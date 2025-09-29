@@ -42,7 +42,6 @@ body {
   display: flex;
   width: 100%;
   padding: 100px 0;
-  overflow: hidden;
 }
 
 .hero-text-side {
@@ -111,7 +110,6 @@ body {
 .hero-zuzu-img {
   transform: scale(3.2) translate(25px, 12px);
   transform-origin: center;
-  pointer-events: none;
 }
 
 /* Footer */
